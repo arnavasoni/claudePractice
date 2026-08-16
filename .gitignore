@@ -1,2 +1,4 @@
 .env
 dataset.json
+output.html
+output.json
